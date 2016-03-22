@@ -1,2 +1,5 @@
 # hello-world
-say hi to everyonr
+say hi to everyone
+
+
+I like eating......................
